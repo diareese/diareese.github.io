@@ -1,2 +1,4 @@
 # diareese.github.io
-### welcome to diareese's github
+### Welcome to Diareese's Github
+## Always seek God for greater glory
+## Hope you all do well
