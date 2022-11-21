@@ -1,3 +1,4 @@
+theme: jekyll-theme-midnight
 # Welcome to Reese's Github
 
 ## Term 3 Class Schedule 2021-2022 
