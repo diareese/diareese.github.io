@@ -1,6 +1,6 @@
-# Welcome to Reese's Github
+# Welcome to Reese's Github 💗
 
-## Term 3 Class Schedule 2021-2022 
+## Term 3 Class Schedule 2021-2022 ⏲
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
 |------|--------|---------|-----------|----------|--------|
