@@ -4,19 +4,16 @@
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
 |------|--------|---------|-----------|----------|--------|
-| 7:30-8:00 | HR/Assembly | HR/Assembly | HR/Assembly |  HR/Assembly | HR/Assembly|
-| 8:00-8:45 | Filipino - Ma'am Jeanny | AP - Ma'am Anna | AP -  Ma'am Anna | AP - Ma'am Anna | AP - Ma'am Anna |
-| 8:45-9:00 | Break | | | | | |
-| 9:00-9:45 | Filipino - Ma'am Jeanny | Math - Ma'am Ally | Math - Ma'am Ally | Filipino - Ma'am Jeanny | Filipino - Ma'am Jeanny |
-| 9:45-10:00 | Break | | | | | |
-| 10:00-10:45 | Math - Ma'am Ally | Filipino - Ma'am Jeanny | Filipino - Ma'am Jeanny | Math - Ma'am Ally | Math - Ma'am Ally |
-| 10:45-11:00 | Break | | | | | |
-| 11:00-11:45 | Math - Ma'am Ally | CLE - Ma'am Precious Study Time | CLE - Ma'am Precious Study Time | Math - Ma'am Ally | Math - Ma'am Ally|
-| 11:45-12:45 | Lunch | | | | | |
-| 12:45-1:30 | AP- Ma'am Study Time | CLE - Ma'am Precious | CLE - Ma'am Precious| CLE - Ma'am Precious | CLE - Ma'am Precious|
-| 1:30-1:45 | Break | | | | | |
-| 1:45-2:30 | Math - Ma'am Ally Consultation Time | CLE - Ma'am Precious Consultation Time | AP - Ma'am Anna Consultation Time | AP - Ma'am Anna Study Time | AP - Ma'am Anna Study Time |
-| 2:30-2:45 | Break | | | | | |
-| 2:45-3:30 | Math - Ma'am Ally Study Time | Filipino - Ma'am Jeanny Study Time | Filipino - Ma'am Jeanny Consultation Time | Filipino - Ma'am Jeanny Study Time | Filipino - Ma'am Jeanny Study Time |
-| 3:30-3:45 | Break | | | | | |
-| 3:45-4:30 | Math - Ma'am Ally Study Time | Filipino - Ma'am Jeanny Study Time | Filipino - Ma'am Jeanny Study Time | CLE - Ma'am Precious Study Time |  CLE - Ma'am Precious Study Time |
+| 7:35-8:00 | HR/Assembly | HR/Assembly | HR/Assembly |  HR/Assembly | HR/Assembly|
+| 8:10-9:00 |  PE/Health | Music/Arts | PE/Health | study Period | Science |
+| 9:00-9:10 | Break | Break | Break | Break | Break |
+| 9:10-10:00 | English | Science | English | English | Science |
+| 10:00-10:10 | Break | Break | Break | Break | Break |
+| 10:10-11:00 | English | Science | Science | English | English |
+| 11:10-12:00 | Lunch Break | Lunch Break | Lunch Break | Lunch Break | Lunch Break |
+| 12:10-1:00 | Science | Computer | Music/Arts | Computer | Study Period |
+| 1:00-1:10 | Break | Break | Break | Break | Break |
+| 1:10-2:00 | Science | English | Computer | PE/Health | Computer |
+| 2:00-2:10 | Examen | Examen | Examen | Break | Break |
+| 2:10-3:00 | Dismissal | Dismissal | Dismissal | Break | Music/Arts |
+| 3:00-3:10 | Dismissal | Dismissal | Dismissal | Examen | Examen |
